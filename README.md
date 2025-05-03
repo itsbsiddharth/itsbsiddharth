@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Leveling UP IRL..
+- My name is Siddharth, and I'm an IIT Dhanbad trained computer scientist interested in all things Python & Data Science!
+- 🔭 I recently built a program that helps you level up in real life!! , check it out [here](https://grindirl.netlify.app/)
 - 🌱 I’m currently perfecting  data structures and algorithms , machine learning , deep learning .
+
+
 
   
 <!--
@@ -17,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👯 I’m looking to collaborate on YouTube videos!
+Send ideas to business@keithgalli.com
 -->
