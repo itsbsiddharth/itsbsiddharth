@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Leveling UP IRL..
+- 🌱 I’m currently learning  ...
+- 👯 I’m looking to collaborate on  Leveling UP IRL project..
+  
 <!--
 **itsbsiddharth/itsbsiddharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
