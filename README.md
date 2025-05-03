@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Leveling UP IRL..
-- 🌱 I’m currently learning  ...
-- 👯 I’m looking to collaborate on  Leveling UP IRL project..
+- 🌱 I’m currently perfecting  data structures and algorithms , machine learning , deep learning .
 
   
 <!--
